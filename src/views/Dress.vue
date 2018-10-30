@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="">
-    ABS
+    Dress
   </div>
 </template>
 

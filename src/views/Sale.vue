@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="">
-    ABS
+    sale
   </div>
 </template>
 
